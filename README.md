@@ -1,7 +1,7 @@
 # touch-bar
 Custom Mac Pro touch bar settings
 
-##Global functions
+## Global functions
 
 **right aligned**
 - date/time
@@ -13,7 +13,7 @@ Custom Mac Pro touch bar settings
 - 3 finger swipe left (brightness down)
 - 3 finger swipe right (brightness up)
 
-##Standard bar
+## Standard bar
 
 **left aligned**
 - lock screen
@@ -21,7 +21,6 @@ Custom Mac Pro touch bar settings
 
 **right aligned**
 - today's weather
-- launch gmail in Chrome
 
 **hidden until needed**
 - display what's playing on YouTube
