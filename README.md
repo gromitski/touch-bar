@@ -66,7 +66,7 @@ _CTRL triggered touch bar_
 - align window right
 - align window top
 - align window bottom
-- maximizs window
+- maximize window
 - restore window dimensions
 - centre window
 
