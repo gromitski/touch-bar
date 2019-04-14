@@ -20,6 +20,8 @@ These tools have been set up using a combination of applescript and the software
 
 These tools/gestures are available on all toolbars except when CTRL is held down.
 
+![Standard touch bar](screenshots/standard.png)
+
 **left aligned**
 - lock screen
 - spotify play/pause
