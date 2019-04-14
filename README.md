@@ -74,6 +74,9 @@ This is an alternative toolbar, triggered by pressing CTRL at any time
 
 Toolbar appears when Google Chrome is in focus
 
+_Google Chrome specific touch bar_
+![Chrome touch bar](screenshots/chrome.png)
+
 **left aligned**
 - new page
 - new incognito page
@@ -89,6 +92,9 @@ Toolbar appears when Google Chrome is in focus
 ## Terminal Specific
 
 Toolbar appears when Terminal is in focus
+
+_Terminal specific touch bar_
+![Terminal touch bar](screenshots/terminal.png)
 
 **left aligned**
 - clear screen
@@ -110,6 +116,12 @@ Toolbar appears when Terminal is in focus
 ## Spotify Specific
 
 Toolbar appears when Spotify is in focus
+
+_Spotify specific touch bar_
+![Spotify touch bar](screenshots/spotify.png)
+
+_Spotify specific touch bar with music playing_
+![Spotify touch bar with music playing](screenshots/spotify-playing.png)
 
 **left aligned**
 - previous track
