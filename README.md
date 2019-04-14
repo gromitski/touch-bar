@@ -58,6 +58,9 @@ _Standard touch bar with a reminder_
 
 This is an alternative toolbar, triggered by pressing CTRL at any time
 
+_CTRL triggered touch bar_
+![CTRL touch bar](screenshots/ctrl.png)
+
 **left aligned**
 - align window left
 - align window right
