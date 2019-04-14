@@ -1,6 +1,10 @@
 # touch-bar
 Custom Mac Pro touch bar settings
 
+## Install instructions
+These tools have been set up using a combination of applescript and the software [Better Touch Tool](https://folivora.ai/). To install them simply download and install the software, then click "Manage Presets" followed by "Import".
+
+
 ## Global functions
 
 **right aligned**
@@ -12,6 +16,7 @@ Custom Mac Pro touch bar settings
 - 2 finger swipe right (volume up)
 - 3 finger swipe left (brightness down)
 - 3 finger swipe right (brightness up)
+
 
 ## Standard tools
 
@@ -41,6 +46,7 @@ Custom Mac Pro touch bar settings
 **right aligned**
 - colour picker
 
+
 ## Google Chrome Specific
 
 **left aligned**
@@ -53,6 +59,7 @@ Custom Mac Pro touch bar settings
 - hard refresh
 - open/close dev tools
 - javascript console
+
 
 ## Terminal Specific
 
