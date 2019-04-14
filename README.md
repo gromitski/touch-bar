@@ -138,6 +138,9 @@ _Spotify specific touch bar with music playing_
 
 Toolbar appears when Notes is in focus. 
 
+_Apple Notes specific touch bar_
+![Apple Notes touch bar](screenshots/notes.png)
+
 **left aligned**
 - bold
 - italics
