@@ -20,7 +20,18 @@ These tools have been set up using a combination of applescript and the software
 
 These tools/gestures are available on all toolbars except when CTRL is held down.
 
+Standard touch bar:
 ![Standard touch bar](screenshots/standard.png)
+
+Standard touch bar with Spotify playing:
+![Standard touch bar with Spotify playing](screenshots/standard-with-spotify.png)
+
+Standard touch bar with Spotify playing and a reminder:
+![Standard touch bar with Spotify playing and a reminder](screenshots/standard-with-spotify-and-reminder.png)
+
+Standard touch bar with a reminder:
+![Standard touch bar with a reminder](screenshots/standard-with-reminder.png)
+
 
 **left aligned**
 - lock screen
