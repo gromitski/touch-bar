@@ -153,6 +153,7 @@ _Apple Notes specific touch bar_
 
 **right aligned**
 - new note
+- new folder
 - find in note
 - note search
 
