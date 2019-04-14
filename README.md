@@ -66,8 +66,9 @@ _CTRL triggered touch bar_
 - align window right
 - align window top
 - align window bottom
-- align window
+- maximizs window
 - restore window dimensions
+- centre window
 
 **right aligned**
 - colour picker
@@ -130,8 +131,8 @@ _Spotify specific touch bar with music playing_
 - previous track
 - play/pause (part of the Global tool set)
 - next track
+- search Spotify
 - display track (part of the Global tool set)
-- search spotify
 
 **right aligned**
 - mute
