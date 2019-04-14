@@ -8,7 +8,7 @@ Custom Mac Pro touch bar settings
 - [Google Chrome specific](https://github.com/gromitski/touch-bar#google-chrome-specific)
 - [Terminal specific](https://github.com/gromitski/touch-bar#terminal-specific)
 - [Spotify specific](https://github.com/gromitski/touch-bar#spotify-specific)
-- [Notes specific](https://github.com/gromitski/touch-bar#notes-specific)
+- [Apple Notes specific](https://github.com/gromitski/touch-bar#apple-notes-specific)
 - [Credits](https://github.com/gromitski/touch-bar#credits)
 
 
@@ -109,7 +109,7 @@ Toolbar appears when Spotify is in focus
 - mute
 
 
-## Notes Specific
+## Apple Notes Specific
 
 Toolbar appears when Notes is in focus. 
 
@@ -132,8 +132,10 @@ Toolbar appears when Notes is in focus.
 ## Credits
 
 **Icons**
+
 Whenever possible, all icons are taken from the default BetterTouchTool icon sets. Occasionally however additional icons were needed. Additional icons are sourced from [The Noun Project](https://thenounproject.com). Icon credits to: Momento Design, Creaticca Creative Agency & Lloyd Humphreys.
 
 **Code snippets**
+
 Code snippets are all custom written or bespoke built in BetterTouchTool. A couple of scripts though were borrowed from [this article by Vasily Zuberev](https://vas3k.com/blog/touchbar/). Thanks Vasily for inspiring me to create these custom touch tools.
 
