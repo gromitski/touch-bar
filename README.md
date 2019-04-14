@@ -20,6 +20,19 @@ These tools have been set up using a combination of applescript and the software
 
 These tools/gestures are available on all toolbars except when CTRL is held down.
 
+_Standard touch bar_
+![Standard touch bar](screenshots/standard.png)
+
+_Standard touch bar with Spotify playing_
+![Standard touch bar with Spotify playing](screenshots/standard-with-spotify.png)
+
+_Standard touch bar with Spotify playing and a reminder_
+![Standard touch bar with Spotify playing and a reminder](screenshots/standard-with-spotify-and-reminder.png)
+
+_Standard touch bar with a reminder_
+![Standard touch bar with a reminder](screenshots/standard-with-reminder.png)
+
+
 **left aligned**
 - lock screen
 - spotify play/pause
@@ -45,6 +58,9 @@ These tools/gestures are available on all toolbars except when CTRL is held down
 
 This is an alternative toolbar, triggered by pressing CTRL at any time
 
+_CTRL triggered touch bar_
+![CTRL touch bar](screenshots/ctrl.png)
+
 **left aligned**
 - align window left
 - align window right
@@ -61,6 +77,9 @@ This is an alternative toolbar, triggered by pressing CTRL at any time
 
 Toolbar appears when Google Chrome is in focus
 
+_Google Chrome specific touch bar_
+![Chrome touch bar](screenshots/chrome.png)
+
 **left aligned**
 - new page
 - new incognito page
@@ -76,6 +95,9 @@ Toolbar appears when Google Chrome is in focus
 ## Terminal Specific
 
 Toolbar appears when Terminal is in focus
+
+_Terminal specific touch bar_
+![Terminal touch bar](screenshots/terminal.png)
 
 **left aligned**
 - clear screen
@@ -98,6 +120,12 @@ Toolbar appears when Terminal is in focus
 
 Toolbar appears when Spotify is in focus
 
+_Spotify specific touch bar_
+![Spotify touch bar](screenshots/spotify.png)
+
+_Spotify specific touch bar with music playing_
+![Spotify touch bar with music playing](screenshots/spotify-playing.png)
+
 **left aligned**
 - previous track
 - play/pause (part of the Global tool set)
@@ -113,6 +141,9 @@ Toolbar appears when Spotify is in focus
 
 Toolbar appears when Notes is in focus. 
 
+_Apple Notes specific touch bar_
+![Apple Notes touch bar](screenshots/notes.png)
+
 **left aligned**
 - bold
 - italics
@@ -125,6 +156,7 @@ Toolbar appears when Notes is in focus.
 
 **right aligned**
 - new note
+- new folder
 - find in note
 - note search
 
