@@ -9,6 +9,7 @@ Custom Mac Pro touch bar settings
 - [Terminal specific](https://github.com/gromitski/touch-bar#terminal-specific)
 - [Spotify specific](https://github.com/gromitski/touch-bar#spotify-specific)
 - [Apple Notes specific](https://github.com/gromitski/touch-bar#apple-notes-specific)
+- [Coda specific](https://github.com/gromitski/touch-bar#coda-specific)
 - [Credits](https://github.com/gromitski/touch-bar#credits)
 
 
@@ -160,6 +161,23 @@ _Apple Notes specific touch bar_
 - new folder
 - find in note
 - note search
+
+
+## Coda Specific
+
+Toolbar appears when Coda 2 is in focus. 
+
+_Coda specific touch bar_
+![Apple Notes touch bar](screenshots/coda.png)
+
+**left aligned**
+- fold selection
+- show / hide sidebar
+- new tab
+- new split
+
+**right aligned**
+- preview in chrome (default browser)
 
 
 ## Credits
