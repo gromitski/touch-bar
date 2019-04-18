@@ -1,16 +1,16 @@
 # touch-bar
 Custom Mac Pro touch bar settings
 
-- [Install instructions](https://github.com/gromitski/touch-bar#install-instructions)
-- [Global tools](https://github.com/gromitski/touch-bar#global-functions)
-- [Standard tools](https://github.com/gromitski/touch-bar#standard-tools)
-- [CTRL triggered tools](https://github.com/gromitski/touch-bar#ctrl-triggered-tools)
-- [Google Chrome specific](https://github.com/gromitski/touch-bar#google-chrome-specific)
-- [Terminal specific](https://github.com/gromitski/touch-bar#terminal-specific)
-- [Spotify specific](https://github.com/gromitski/touch-bar#spotify-specific)
-- [Apple Notes specific](https://github.com/gromitski/touch-bar#apple-notes-specific)
-- [Coda specific](https://github.com/gromitski/touch-bar#coda-specific)
-- [Credits](https://github.com/gromitski/touch-bar#credits)
+- [Install instructions](#install-instructions)
+- [Global tools](#global-functions)
+- [Standard tools](#standard-tools)
+- [CTRL triggered tools](#ctrl-triggered-tools)
+- [Google Chrome specific](#google-chrome-specific)
+- [Terminal specific](#terminal-specific)
+- [Spotify specific](#spotify-specific)
+- [Apple Notes specific](#apple-notes-specific)
+- [Coda specific](#coda-specific)
+- [Credits](#credits)
 
 
 ## Install instructions
